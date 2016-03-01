@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelLocal", "ParallelLo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserStackParallelTests", "BrowserStackParallelTests\BrowserStackParallelTests.csproj", "{3D6DD3D2-5CD4-49EE-A763-DF4B8ADFD3AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SauceLabsParallelTests", "SauceLabsParallelTests\SauceLabsParallelTests.csproj", "{18239345-BB62-4CE0-9953-9D271CF493DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3D6DD3D2-5CD4-49EE-A763-DF4B8ADFD3AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D6DD3D2-5CD4-49EE-A763-DF4B8ADFD3AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D6DD3D2-5CD4-49EE-A763-DF4B8ADFD3AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18239345-BB62-4CE0-9953-9D271CF493DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18239345-BB62-4CE0-9953-9D271CF493DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18239345-BB62-4CE0-9953-9D271CF493DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18239345-BB62-4CE0-9953-9D271CF493DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
